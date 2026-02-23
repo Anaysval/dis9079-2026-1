@@ -2,7 +2,7 @@
 .DS_Store
 
 # Arduino
-arduino_secrets.h
+*/arduino_secrets.h
 
 # Node
 node_modules/
