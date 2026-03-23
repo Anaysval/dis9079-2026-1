@@ -29,3 +29,7 @@ Instalar Visual Studio Code y extencion de Raspberry pi (la oficial)
 -Console over USB
 
 -c++ o .cpp
+
+## Intento del ejercicio en arduino IDE
+
+Falló
