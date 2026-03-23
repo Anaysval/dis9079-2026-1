@@ -12,4 +12,8 @@ lunes 23 de marzo de 2026
 
 - raspberry pi 5 vale 200 luquitas, ahora son de 16gb ram en adelante, no cuma
 
+- <monome>https://monome.org/ botones que hacen cositas con una raspberry pi dentro
+
+- critter and guitari
+
 - 
